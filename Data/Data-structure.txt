@@ -1,0 +1,2 @@
+The data saved in the folder course_sfs/data/ is sorted by participant number (abbrreviated with "p"). In total there are 60 participants and their results split into 3 result files.
+Only the reaction time was extracted from the raw data and are saved in .csv files. 
